@@ -1,0 +1,90 @@
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+background-color: #0A192F;
+color: white;
+font-family: cursive;
+}
+.header-container{
+display: flex;
+justify-content: space-between;
+}
+header{
+    font-size: 2rem;
+    font-family: cursive;
+}
+
+.header-container .folio{
+  color: rgb(0, 234, 255);
+  font-family: cursive;
+}
+.nav-link{
+  font-family: cursive;
+  margin: 0 .8rem;
+}
+.nav-bar{
+  margin-top: .8rem;
+}
+.middle-container{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 4rem;
+
+}
+.about-me{
+ border-radius: 1rem;
+}
+
+.name-span{
+    font-size: 1.6rem;
+    color: white;
+    font-weight: bold;
+}
+.career-span{
+    font-size: 1.2rem;
+    color: aqua;
+    font-family: cursive;
+    font-weight: bold;
+
+    display: inline-block;
+  animation: slide 3s ease-in-out infinite;
+}
+@keyframes slide {
+  0%   { transform: translateX(0); }
+  50%  { transform: translateX(50px); }
+  100% { transform: translateX(0); }
+}
+img {
+  max-width: 100%;  /* fits inside parent */
+  height: 25rem;
+  width: 25rem;
+  background-color: #0A192F;
+  box-shadow: 1px 2px 62px 2px aqua;
+  border-radius: 15rem ;
+}
+.view-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    font-family: cursive;
+   
+}
+.number-span{
+    font-size: 2rem;
+    font-family: cursive;
+    
+}
+.status{
+  border-left: 2px solid;
+  padding:2rem ;
+  color: rgb(0, 247, 255);
+  align-items: center;
+}
+.social-icon{
+    text-align: center;
+    font-family: cursive;
+    font-size: 2rem;
+}
+
