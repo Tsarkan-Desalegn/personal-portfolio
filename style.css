@@ -7,8 +7,16 @@ color: white;
 font-family: cursive;
 }
 .header-container{
-display: flex;
-justify-content: space-between;
+  position: fixed;       
+  top: 0;                   
+  left: 0;
+  width: 100%;           
+  display: flex;          
+  justify-content: space-between; 
+  align-items: center;      
+  color: white;  
+  font-size: 1.2rem;
+  z-index: 1000; 
 }
 header{
     font-size: 2rem;
@@ -24,7 +32,9 @@ header{
   margin: 0 .8rem;
 }
 .nav-bar{
-  margin-top: .8rem;
+
+    display: flex;            /* flex for nav links */
+  gap: 20px; 
 }
 .middle-container{
     display: flex;
@@ -78,7 +88,7 @@ img {
 }
 .status{
   border-left: 2px solid;
-  padding:2rem ;
+margin-top: 5rem;
   color: rgb(0, 247, 255);
   align-items: center;
 }
@@ -87,19 +97,38 @@ img {
     font-family: cursive;
     font-size: 2rem;
 }
-
 .my-information{
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   margin-top: 20rem;
+  font-size: large;
 }
-.information{
-  border: 2px solid #0A192F ;
-  margin: 1rem;
-  box-shadow: 1px 2px 10px 1px aqua;
-  border-radius: 1rem;
+.me{
+   color: rgb(0, 234, 255);
+  font-family: cursive;
 }
-.information:hover{
-  margin-top: .1px;
+#morebtn{
+  background-color: aqua;
+  border: none;
+  width: 10rem;
+  margin-top: .7rem;
+  height: 2rem;
+  border-radius: 10rem;
+  color: black;
+  font-size: large;
+  font-family: monospace;
+
+}
+#morebtn:hover{
+    margin-top: .1rem;
+     box-shadow: 1px 1px 12px 2px aqua;
+  
+}
+.download-btn{
+  background-color: aqua;
+  color: #0A192F;
+  border: none;
+  border-radius: 2rem;
+  width: 6rem;
 }
