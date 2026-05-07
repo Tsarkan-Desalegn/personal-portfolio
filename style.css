@@ -88,3 +88,18 @@ img {
     font-size: 2rem;
 }
 
+.my-information{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20rem;
+}
+.information{
+  border: 2px solid #0A192F ;
+  margin: 1rem;
+  box-shadow: 1px 2px 10px 1px aqua;
+  border-radius: 1rem;
+}
+.information:hover{
+  margin-top: .1px;
+}
