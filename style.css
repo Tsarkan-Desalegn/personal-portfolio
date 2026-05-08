@@ -41,6 +41,7 @@ header{
     justify-content:space-around;
     align-items: center;
     margin-top: 4rem;
+    font-size: 1.4rem;
 
 }
 .about-me{
@@ -101,8 +102,9 @@ margin-top: 5rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin-top: 20rem;
-  font-size: large;
+  margin-top: 13rem;
+  margin-bottom: 6rem;
+  font-size: 1.4rem;
 }
 .me{
    color: rgb(0, 234, 255);
@@ -120,6 +122,20 @@ margin-top: 5rem;
   font-family: monospace;
 
 }
+.morebtn{
+    background-color: aqua;
+  border: none;
+  width: 30%;
+  display: flex;
+
+  margin-top: .7rem;
+  align-items: center;
+  height: 2rem;
+  border-radius: 10rem;
+  color: black;
+  font-size: large;
+  font-family: monospace;
+}
 #morebtn:hover{
     margin-top: .1rem;
      box-shadow: 1px 1px 12px 2px aqua;
@@ -131,4 +147,111 @@ margin-top: 5rem;
   border: none;
   border-radius: 2rem;
   width: 6rem;
+}
+.service {
+  display: flex;
+  justify-content: center;     
+  align-items: stretch;        
+  flex-wrap: wrap;            
+  gap: 2rem;                  
+  margin: 2rem auto;           
+  padding: 2rem;
+  max-width: 1200px; 
+  font-size: 1.2rem;         
+}
+
+.detail-information {
+  flex: 1 1 300px;           
+  border: none;
+  padding: 1rem;
+  border-radius: 2rem;
+  box-shadow: 1px 1px 12px 2px aqua;
+  text-align: center;
+  display: flex;
+  flex-direction: column;      
+  justify-content: space-between; 
+  min-height: 250px;           
+}
+
+
+.devicon-apache-plain{
+  
+  display: flex;
+  font-size: 3rem;
+  justify-content: center;
+  align-items: center;
+ color: aqua;
+}
+.devicon-python-plain{
+  display: flex;
+  font-size: 3rem;
+  justify-content: center;
+  color: aqua;
+}
+h2{
+  text-align: center;
+}
+.service-span{
+   color: rgb(0, 234, 255);
+  font-family: cursive;
+}
+.skills-section {
+  display: flex;
+  justify-content: space-around; 
+  align-items: flex-start;
+  flex-wrap: wrap;              
+  gap: 2rem;
+ 
+  margin: 2rem auto;
+  max-width: 1200px;
+}
+
+.skills {
+  flex: 1 1 400px;              
+  border: 2px solid white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 1px 1px 12px 2px aqua;
+}
+
+.first {
+  margin-bottom: 1rem;
+}
+
+.skill-name {
+  font-weight: bold;
+  margin-bottom: .5rem;
+}
+
+.progress-container {
+  background-color: #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 1rem;
+}
+
+.progress-bar {
+  height: 100%;
+  background-color: aqua;
+  text-align: right;
+  padding-right: .5rem;
+  color: #0A192F;
+  font-size: .8rem;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+/* Responsive tweak */
+@media (max-width: 768px) {
+  .skills-section {
+    flex-direction: column; 
+    align-items: center;
+  }
+  .skills {
+    width: 90%;
+  }
+}
+.skills-header{
+  text-align: center;
+
 }
