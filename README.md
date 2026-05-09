@@ -36,3 +36,71 @@ portfolio/
 │── Library.png
 │── Admin_Dashboard.png
 │── Gpa_Calculator.png
+
+# 🚀 Sections Overview
+
+### 🏠 Home  
+Introduction and navigation bar  
+
+### 👤 About Me  
+Professional background and career goals  
+
+### 🧑‍💻 Services  
+Web development, data science, and software engineering offerings  
+
+### 📊 Skills  
+Coding and professional skills with progress visualization  
+
+### 💼 Portfolio  
+Latest projects with screenshots  
+
+### 📬 Contact  
+Phone, email, GitHub, and social media links  
+
+---
+
+# 🧑‍💻 Services
+
+### 🌐 Web Development  
+End‑to‑end applications with **React, Tailwind CSS, Node.js, and Python**.  
+
+### 📊 Data Science  
+Predictive models and actionable insights, especially in **agriculture**.  
+
+### 🛠️ Software Development  
+Building resilient systems with **clean documentation** and a **growth mindset**.  
+
+---
+
+# 📊 Skills
+
+### 💻 Coding Skills
+- **HTML** – 90%  
+- **CSS** – 80%  
+- **JavaScript** – 65%  
+- **Python** – 75%  
+
+### 🎯 Professional Skills
+- **Web Design** – 95%  
+- **Web Development** – 80%  
+- **Communication** – 85%  
+- **Problem Solving** – 90%  
+
+---
+
+# 📸 Latest Projects
+- 🪨 **Rock Paper Scissor Game**  
+- 📚 **Library Management System**  
+- 🖥️ **Admin Dashboard**  
+- 🎓 **GPA Calculator**  
+
+---
+
+# 📬 Contact
+
+- 📞 **Phone:** [+251929748439](tel:+251929748439)  
+- 📧 **Email:** tsarkandesalegn582@gmail.com  
+- 🐦 **Twitter:** [@DesalegnTs70930](https://x.com/DesalegnTs70930)  
+- 💻 **GitHub:** [Tsarkan-Desalegn](https://github.com/Tsarkan-Desalegn)  
+- 💼 **LinkedIn:** *(link placeholder)*  
+- 📘 **Facebook:** *(link placeholder)*  
