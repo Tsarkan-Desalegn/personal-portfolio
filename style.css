@@ -7,6 +7,9 @@ color: white;
 
 font-family: cursive;
 }
+html {
+  scroll-behavior: smooth;
+}
 .header-container{
   position: fixed;       
   top: 0;                   
@@ -19,6 +22,7 @@ font-family: cursive;
   font-size: 1.2rem;
   z-index: 1000; 
 }
+
 @media (max-width: 768px) {
   .header-container {
     flex-direction: column; 
@@ -38,7 +42,7 @@ header{
   margin: 0 .8rem;
 }
 .nav-bar{
-  display: flex;            /* flex for nav links */
+  display: flex;          
   gap: 20px; 
 }
 @media (max-width: 768px) {
@@ -92,9 +96,9 @@ img {
     display: flex;
     justify-content: space-between;
     margin-top: 4rem;
-    margin: 1rem;
     font-size: large;
     padding: 1rem;
+    gap: 5rem;
     font-family: cursive;
 }
 @media (max-width: 768px) {
@@ -148,11 +152,10 @@ margin-top: 5rem;
 
 }
 .morebtn{
-    background-color: aqua;
+  background-color: aqua;
   border: none;
   width: 30%;
   display: flex;
-
   margin-top: .7rem;
   align-items: center;
   height: 2rem;
@@ -283,7 +286,7 @@ margin-top: 5rem;
   }}
   .project-header{
     text-align: center;
-    margin-top: 8rem;
+  
     margin-bottom: 2rem;
   }
   .second img{
@@ -309,8 +312,7 @@ margin-top: 5rem;
   }
 .contact-header{
     text-align: center;
-    margin-top: 8rem;
-    margin-bottom: 1rem;
+
   }
 .contact-detail{
   display: flex;
@@ -318,6 +320,7 @@ margin-top: 5rem;
   justify-content: center;
   flex-direction: column;
   width: 70%;
+  width: 100%;
   font-size: large;
   height: 100%;
 }
@@ -339,5 +342,15 @@ margin-top: 5rem;
   transform: scale(1.05);
   box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
+section {
+  min-height: 100vh;  
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+}
+
+
 
 
