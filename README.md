@@ -36,6 +36,21 @@ portfolio/
 │── Library.png
 │── Admin_Dashboard.png
 │── Gpa_Calculator.png
+---
+
+## 🖼️ Image Functionality
+
+Project images in the **Portfolio Section** are now interactive:  
+- 🔗 **Clickable Images** – Each project screenshot redirects to its **deployed live demo site**.  
+- 🖱️ **User Experience** – When a visitor clicks/touches an image, they are taken directly to the live deployed project.  
+- 🎨 **Hover Effects (CSS)** – Images include hover animations (e.g., scale, shadow) to indicate they are clickable.  
+
+### Example (HTML)
+```html
+<a href="https://tsarkan-desalegn.github.io/Rock-Paper-Scissors/" target="_blank">
+  <img src="Rock_Paper_Scissor.png" alt="Rock Paper Scissor Project">
+</a>
+
 
 # 🚀 Sections Overview
 
