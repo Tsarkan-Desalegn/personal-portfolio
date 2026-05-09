@@ -24,3 +24,15 @@ Built with **HTML, CSS**, this portfolio highlights both **Coding Skills** and *
 - **CSS3** for styling and responsiveness
 - **Flexbox & Media Queries** for layout
 - **Devicon** for skill icons
+---
+
+## 📂 Project Structure
+```plaintext
+portfolio/
+│── index.html        # Main HTML file
+│── style.css         # Stylesheet
+│── TSARKAN.png       # Profile image
+│── Rock_Paper_Scissor.png
+│── Library.png
+│── Admin_Dashboard.png
+│── Gpa_Calculator.png
