@@ -26,7 +26,7 @@ Built with **HTML, CSS**, this portfolio highlights both **Coding Skills** and *
 ---
 
 ## 📂 Project Structure
-```plaintext
+
 portfolio/
 │── index.html        # Main HTML file
 │── style.css         # Stylesheet
@@ -45,7 +45,7 @@ Project images in the **Portfolio Section** are now interactive:
 - 🎨 **Hover Effects (CSS)** – Images include hover animations (e.g., scale, shadow) to indicate they are clickable.  
 
 ### Example (HTML)
-```html
+
 <a href="https://tsarkan-desalegn.github.io/Rock-Paper-Scissors/" target="_blank">
   <img src="Rock_Paper_Scissor.png" alt="Rock Paper Scissor Project">
 </a>
