@@ -109,7 +109,6 @@ Building resilient systems with **clean documentation** and a **growth mindset**
 - 🎓 **GPA Calculator**  
 
 ---
-
 # 📬 Contact
 
 - 📞 **Phone:** [+251929748439](tel:+251929748439)  
