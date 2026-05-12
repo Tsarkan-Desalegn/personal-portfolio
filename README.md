@@ -4,7 +4,6 @@ A responsive and modern personal portfolio showcasing my background, skills, and
 Built with **HTML, CSS**, this portfolio highlights both **Coding Skills** and **Professional Skills** using progress bars for clear visualization.
 
 ---
-
 ## 🚀 Features
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile.
 - **Navigation Bar**: Fixed header with smooth scrolling to sections.
