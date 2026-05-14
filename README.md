@@ -4,7 +4,6 @@ A responsive and modern personal portfolio showcasing my background, skills, and
 Built with **HTML, CSS**, this portfolio highlights both **Coding Skills** and **Professional Skills** using progress bars for clear visualization.
 
 ---
-
 ## 🚀 Features
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile.
 - **Navigation Bar**: Fixed header with smooth scrolling to sections.
@@ -27,7 +26,7 @@ Built with **HTML, CSS**, this portfolio highlights both **Coding Skills** and *
 ---
 
 ## 📂 Project Structure
-```plaintext
+
 portfolio/
 │── index.html        # Main HTML file
 │── style.css         # Stylesheet
@@ -46,7 +45,7 @@ Project images in the **Portfolio Section** are now interactive:
 - 🎨 **Hover Effects (CSS)** – Images include hover animations (e.g., scale, shadow) to indicate they are clickable.  
 
 ### Example (HTML)
-```html
+
 <a href="https://tsarkan-desalegn.github.io/Rock-Paper-Scissors/" target="_blank">
   <img src="Rock_Paper_Scissor.png" alt="Rock Paper Scissor Project">
 </a>
@@ -110,7 +109,6 @@ Building resilient systems with **clean documentation** and a **growth mindset**
 - 🎓 **GPA Calculator**  
 
 ---
-
 # 📬 Contact
 
 - 📞 **Phone:** [+251929748439](tel:+251929748439)  
