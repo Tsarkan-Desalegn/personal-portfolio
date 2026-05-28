@@ -26,7 +26,7 @@ Built with **HTML, CSS**, this portfolio highlights both **Coding Skills** and *
 ---
 
 ## 📂 Project Structure
-
+```html
 portfolio/
 │── index.html        # Main HTML file
 │── style.css         # Stylesheet
@@ -36,7 +36,7 @@ portfolio/
 │── Admin_Dashboard.png
 │── Gpa_Calculator.png
 ---
-
+```
 ## 🖼️ Image Functionality
 
 Project images in the **Portfolio Section** are now interactive:  
