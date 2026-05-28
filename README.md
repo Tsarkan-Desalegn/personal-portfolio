@@ -116,4 +116,4 @@ Building resilient systems with **clean documentation** and a **growth mindset**
 - 🐦 **Twitter:** [@DesalegnTs70930](https://x.com/DesalegnTs70930)  
 - 💻 **GitHub:** [Tsarkan-Desalegn](https://github.com/Tsarkan-Desalegn)  
 - 💼 **LinkedIn:** *[Tsarkan Desalegn](https://www.linkedin.com/in/tsarkan-desalegn-289b4b409/skills/edit/forms/new)*  
-- 📘 **Facebook:** *(link placeholder)*  
+
